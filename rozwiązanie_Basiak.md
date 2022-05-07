@@ -26,5 +26,5 @@ git commit -m "master8"
 git merge testing  
 git reset HEAD^1  
 git merge testing  
-git checkout testing  
+git checkout testing   
 ![image](https://user-images.githubusercontent.com/102536682/167254779-58029e5c-fab3-45bf-88e2-521aae00c9be.png)
